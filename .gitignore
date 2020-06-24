@@ -1,0 +1,8 @@
+/public/finished/*
+!/public/finished/index.html
+/public/total/*
+!/public/total/index.html
+/public/total的副本/
+.idea/
+/vendor
+
